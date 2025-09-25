@@ -25,6 +25,11 @@ gusanmaz@anadolu.edu.tr
 * https://visualgo.net/en
 * https://algorithm-visualizer.org/
 
+### Kitaplar
+
+* Data Structures and Algorithms in Python 1st Edition - https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/
+* A Common-Sense Guide to Data Structures and Algorithms in Python, Volume 1: Level Up Your Core Programming Skills - https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Python/dp/B0CPB51GT5/
+
 ### Programlar
 
 * PyCharm (https://www.jetbrains.com/pycharm/)
