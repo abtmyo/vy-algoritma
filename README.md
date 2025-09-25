@@ -12,10 +12,12 @@ gusanmaz@anadolu.edu.tr
 * https://docs.python.org/3/tutorial/index.html
 * https://erdincuzun.com/python/01-python/
 * https://www.btkakademi.gov.tr/portal/course/player/deliver/veri-yapilari-ve-algoritmalar-ryz-yok-32057
+* https://www.youtube.com/playlist?list=PLKYEe2WisBTFEr6laH5bR2J19j7sl5O8R
+* https://www.youtube.com/watch?v=DMeD8trbj6A&t=7846s
 
 * https://algs4.cs.princeton.edu/home/
 * https://www.coursera.org/learn/algorithms-part1
-* 
+  
 * https://exercism.org/tracks/python
 * https://github.com/TheAlgorithms/Python
 
