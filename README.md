@@ -2,7 +2,11 @@
 
 Güvenç Usanmaz
 
-gusanmaz@anadolu.edu.tr
+guvencu@anadolu.edu.tr
+
+Oda: 115
+
+Ofis Saatleri
 
 ## Python
 
