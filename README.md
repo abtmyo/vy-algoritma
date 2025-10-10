@@ -45,8 +45,8 @@ gusanmaz@anadolu.edu.tr
 * Google - Gemini
 
 
-https://gist.github.com/gusanmaz/baea54c3c0bda654851b9e3e1b5ca738
-https://programming-25.mooc.fi/
+* https://gist.github.com/gusanmaz/baea54c3c0bda654851b9e3e1b5ca738
+* https://programming-25.mooc.fi/
 
 
 ### Odev 0
