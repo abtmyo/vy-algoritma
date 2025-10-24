@@ -57,5 +57,9 @@ Ofis Saatleri
 
 https://classroom.github.com/a/pCzT7-dq
 
+## 25 Ekim
+
+https://gist.github.com/gusanmaz/e695840f0d4e2a4dfb100d094fb81ae9
+
 
   
