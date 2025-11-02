@@ -57,9 +57,15 @@ Ofis Saatleri
 
 https://classroom.github.com/a/pCzT7-dq
 
-## 25 Ekim
+## 24 Ekim Ders Notlari
 
 https://gist.github.com/gusanmaz/e695840f0d4e2a4dfb100d094fb81ae9
+
+## 31 Ekim Notlari
+
+https://gist.github.com/gusanmaz/05d25d8e93751c5d571b1d0213ffbe90
+
+
 
 
   
