@@ -67,8 +67,8 @@ https://gist.github.com/gusanmaz/05d25d8e93751c5d571b1d0213ffbe90
 
 # 21 Kasim Notlari
 
-https://gusanmaz.github.io/alg21nov/fonksiyonlar.html
-https://gusanmaz.github.io/alg21nov/siniflar.html
+* https://gusanmaz.github.io/alg21nov/fonksiyonlar.html
+* https://gusanmaz.github.io/alg21nov/siniflar.html
 
 
 
