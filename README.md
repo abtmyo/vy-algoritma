@@ -70,6 +70,10 @@ https://gist.github.com/gusanmaz/05d25d8e93751c5d571b1d0213ffbe90
 * https://gusanmaz.github.io/alg21nov/fonksiyonlar.html
 * https://gusanmaz.github.io/alg21nov/siniflar.html
 
+# 28 Kasim Notlari
+
+* https://gusanmaz.github.io/algs/1a_analiz_giris.html
+
 
 
 
