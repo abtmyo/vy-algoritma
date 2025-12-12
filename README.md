@@ -74,6 +74,56 @@ https://gist.github.com/gusanmaz/05d25d8e93751c5d571b1d0213ffbe90
 
 * https://gusanmaz.github.io/algs/1a_analiz_giris.html
 
+```python
+import numpy as np
+class Queue:
+    def __init__(self, capacity):
+        self.capacity = capacity
+        self.data = np.zeros(capacity, dtype=int)
+        self.head = 0
+        self.tail = 0
+        self.size = 0
+
+    def enqueue(self, val):
+        # Dairesel olmadığı için tail sona geldiyse, 
+        # baş tarafta yer olsa bile ekleme yapamayız (Shifting yapmadığımız sürece).
+        if self.tail == self.capacity:
+            print("❌ Dolu! (Kuyruk sonuna ulaşıldı)")
+            return
+
+        self.data[self.tail] = val
+        self.tail += 1  # Modülo (%) operatörünü kaldırdık, sadece artırıyoruz
+        self.size += 1
+        print(f"Enqueue({val}) -> {self.data}")
+
+    def dequeue(self):
+        if self.size == 0:
+            print("❌ Boş!")
+            return
+
+        val = self.data[self.head]
+        self.data[self.head] = 0  # Görsel temizlik için (zorunlu değil)
+        self.head += 1  # Modülo (%) operatörünü kaldırdık, sadece artırıyoruz
+        self.size -= 1
+        print(f"Dequeue() -> {val}")
+
+        # Eğer kuyruk tamamen boşaldıysa pointerları başa çekebiliriz (Optimasyon)
+        if self.size == 0:
+            self.head = 0
+            self.tail = 0
+            print("ℹ️ Kuyruk boşaldı, pointerlar sıfırlandı.")
+
+        return val
+
+
+# Test Adımları
+q = Queue(5)
+q.enqueue(10)
+q.enqueue(20)
+q.dequeue()
+q.enqueue(30)
+```
+
 
 
 
