@@ -120,7 +120,8 @@ class Queue:
 q = Queue(5)
 q.enqueue(10)
 q.enqueue(20)
-q.dequeue()
+a = q.dequeue()
+print(a)
 q.enqueue(30)
 ```
 
